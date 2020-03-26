@@ -1,6 +1,17 @@
 #include <iostream>
 using namespace std;
 
+
+/*
+	Praktikum Pemrograman Terstruktur
+	Tugas Pengganti Pertemuan 4
+	
+	Anggota Kelompok:
+	-Muhammad Bintang Firdaus (1917051045)
+	-Achmad Romadoni (1917051055)
+	-Raymond Faraz Yandika (1917051059)
+*/
+
 void Prime (int *);
 
 int main()
@@ -23,15 +34,16 @@ int main()
 	 
          cout << "Angka yang merupakan Prima = ";
 
-    for (int i=0; i < n; i++)
-    {
-        Prime((pa+i));
-    }
+         for (int i=0; i < n; i++)
+         {
+                Prime((pa+i));
+         }
 
-    cout << endl;
+         cout << endl;
 
-    return 0;
+         return 0;
 }
+
 void Prime (int *angka) {
 	bool hasil = false;
 	
