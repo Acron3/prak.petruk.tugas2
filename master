@@ -7,9 +7,9 @@ using namespace std;
 	Tugas Pengganti Pertemuan 4
 	
 	Anggota Kelompok:
-	-Muhammad Bintang Firdaus (1917051045)
-	-Achmad Romadoni (1917051055)
-	-Raymond Faraz Yandika (1917051059)
+	-Muhammad Bintang Firdaus (1917051045) (2ntng)
+	-Achmad Romadoni (1917051055) (acron3)
+	-Raymond Faraz Yandika (1917051059)(raymondym)
 */
 
 void Prime (int *);
